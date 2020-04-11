@@ -1,13 +1,13 @@
 # Advanced web development 2 report
 
-### Bristol polution report
+### Bristol pollution report
 
 
 ### Skills
 
 I have primarily worked with javascript, charting data and displaying data in multiple different ways, I also have experience with MERN stack and continue in a primarily web development career path, the skills I hope to utilize for this project are those of previous around data visualization and to learn more about data processing and formating.
 
-### Conquer and divide / normalize to xml
+### Conquer and divide / normalize to XML
 The initial part of the assignment was the hardest part for me, as this was not something I had done before, in which firstly I split our one larger file of pollution data into 18 smaller files and then turning those files into XML using another script. The first script was written with a fairly easy structure once I got the hang of it, however, if I were to modernise it I would change the design and look at the explode function, as my script currently opens each file individually and then closes it once it goes through every line, meaning the script is overall quite slow, setting up this script was hard initially because I have had little experience with this style of coding in both creating scripts and formatting an XML schema which is a guideline in which our XML follows so that we only receive the data we wish to chart once we turn it into JSON data.
 
 ### Creating a schema
